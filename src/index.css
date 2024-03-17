@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    padding-top: 4rem; /* Adjust this value based on your navbar's height */
+  }
